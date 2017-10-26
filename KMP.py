@@ -39,5 +39,5 @@ if __name__ == '__main__':
 	s = "ecdabcdabcd"
 	p = "qecdabcd"
 	print match(s, p)
-
+	print getnext('aacecaaa.aaacecaa')
 
